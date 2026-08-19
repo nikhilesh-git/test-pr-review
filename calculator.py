@@ -9,3 +9,5 @@ def calculate_total(items):
     for item in items:
         total += item
     return total
+
+## calculator
